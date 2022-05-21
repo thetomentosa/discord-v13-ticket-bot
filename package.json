@@ -1,0 +1,26 @@
+{
+  "name": "TheTomenTosaDev",
+  "version": "0.0.3",
+  "description": "Ticket botu ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.1.4"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+  }
